@@ -1,16 +1,106 @@
-## Hi there 👋
+# 👩‍💻 Dr. Gurinderjeet Kaur
 
-<!--
-**gjkaur/gjkaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PhD in Computer Science | AI & Data Science Tutor | Machine Learning Engineer | Researcher**
 
-Here are some ideas to get you started:
+🌐 [Website](https://thecomputersciencetutor.com/) |  
+💼 [LinkedIn](https://www.linkedin.com/in/gknatt/) |  
+📧 gknatt91@gmail.com |  
+📍 Brampton, Ontario, Canada  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+I’m a **data-driven professional** with a **PhD in Computer Science** and over 9 years of combined experience in **teaching, research, and industry projects**:contentReference[oaicite:1]{index=1}.  
+
+I specialize in:  
+- **Online Tutoring** (Python, Java, C, C++, SQL, R, MATLAB, AI/ML, Data Science, Operating Systems, Algorithms)  
+- **Machine Learning & Research** (Deep Learning, NLP, Computer Vision, Medical Imaging)  
+- **Data Analytics & Visualization** (Python, R, Power BI, Tableau, Excel)  
+
+✨ Passionate about transforming data into insights, simplifying complex concepts, and helping students and professionals achieve their learning and career goals.
+
+---
+
+## 🎓 Education
+
+- **PhD in Computer Science and Engineering** – Thapar Institute of Engineering & Technology (2019–2023)  
+- **M.E. in Computer Networks (Honours)** – Chandigarh University (2013–2015)  
+- **B.Tech. in Computer Science Engineering** – Punjab Technical University (2009–2013):contentReference[oaicite:2]{index=2}
+
+---
+
+## 💼 Professional Experience
+
+### 🧑‍🏫 Online Computer Science Tutor (Freelancer) | 2024 – Present  
+- Tutored 100+ students globally in **Python, Java, C++, SQL, AI/ML, and Data Science**.  
+- Guided on assignments, projects, thesis/dissertation writing.  
+- Achieved **95% student satisfaction rate**:contentReference[oaicite:3]{index=3}.  
+
+### 🤖 Machine Learning Engineer – NSpark Solutions (USA/India) | 2023 – 2024  
+- Designed ML algorithms for **telecom data automation**, reducing analysis time by 60%.  
+- Improved analysis accuracy by 25% with optimized ML models.  
+- Delivered projects **20% faster and under budget**:contentReference[oaicite:4]{index=4}.  
+
+### 💻 Software Developer Intern – Sony Research India | 2023  
+- Built advanced **decoding algorithm** with FFmpeg → 30% efficiency gain.  
+- Integrated API into production software → improved customer satisfaction by 25%:contentReference[oaicite:5]{index=5}.  
+
+### 🎓 Teaching Associate / Lecturer – Thapar Institute (2019–2022)  
+- Trained 120+ students per semester in **C++, Data Science, ML**.  
+- Boosted course completion rates by 20%:contentReference[oaicite:6]{index=6}.  
+
+### 🎓 Assistant Professor – Chandigarh University (2015–2019)  
+- Taught **C, C++, ML, RPA, DevOps** to 200+ students per semester.  
+- Conducted RPA workshops for industry professionals:contentReference[oaicite:7]{index=7}.  
+
+---
+
+## 🔬 Research Experience
+
+**Brain Tumor Segmentation & Survival Prediction (PhD Thesis)**  
+- Developed ML/DL models using **MRI scans** for survival prediction of glioblastoma patients.  
+- Tools & Libraries: PyTorch, Scikit-learn, PyRadiomics, Pandas, NumPy, Matplotlib, Plotly:contentReference[oaicite:8]{index=8}  
+
+**📄 Publications:**  
+- *Clinical and Translational Imaging (2022)*  
+- *Multimedia Tools and Applications (2023)*  
+- *International Journal of Imaging Systems & Technology (2023)*  
+- *IETE Journal of Research (2023)*:contentReference[oaicite:9]{index=9}
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**: Python, C/C++, Java, SQL, R, MATLAB  
+**ML/AI**: PyTorch, TensorFlow, Keras, Scikit-learn, PyCaret, XGBoost, LightGBM  
+**Data Tools**: Pandas, NumPy, Matplotlib, Plotly, Seaborn, Tableau, Power BI  
+**Big Data**: PySpark, Hadoop  
+**Cloud & DevOps**: AWS, Docker, Git, Linux  
+**Other**: NLP, Computer Vision, Predictive Modeling, Data Mining:contentReference[oaicite:10]{index=10}
+
+---
+
+## 📊 GitHub Stats
+
+![Gurinderjeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gjkaur&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gjkaur&layout=compact&theme=radical)
+
+---
+
+## 📌 Featured Projects
+
+- 🔹   **Brain Tumor Survival Prediction** – Medical imaging ML research project  
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gknatt/)  
+[![Website](https://img.shields.io/badge/Website-Portfolio-green?style=for-the-badge&logo=google-chrome)](https://thecomputersciencetutor.com/)  
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/)  
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/)  
+
+---
+
+✍️ *“The best way to learn computer science is by doing it hands-on, one project at a time.”*  
