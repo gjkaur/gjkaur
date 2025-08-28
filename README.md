@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I’m a **data-driven professional** with a **PhD in Computer Science** and over 9 years of combined experience in **teaching, research, and industry projects**:contentReference[oaicite:1]{index=1}.  
+I’m a **data-driven professional** with a **PhD in Computer Science** and over 9 years of combined experience in **teaching, research, and industry projects**.  
 
 I specialize in:  
 - **Online Tutoring** (Python, Java, C, C++, SQL, R, MATLAB, AI/ML, Data Science, Operating Systems, Algorithms)  
@@ -35,20 +35,20 @@ I specialize in:
 ### 🧑‍🏫 Online Computer Science Tutor (Freelancer) | 2024 – Present  
 - Tutored 100+ students globally in **Python, Java, C++, SQL, AI/ML, and Data Science**.  
 - Guided on assignments, projects, thesis/dissertation writing.  
-- Achieved **95% student satisfaction rate**:contentReference[oaicite:3]{index=3}.  
+- Achieved **95% student satisfaction rate**.  
 
 ### 🤖 Machine Learning Engineer – NSpark Solutions (USA/India) | 2023 – 2024  
 - Designed ML algorithms for **telecom data automation**, reducing analysis time by 60%.  
 - Improved analysis accuracy by 25% with optimized ML models.  
-- Delivered projects **20% faster and under budget**:contentReference[oaicite:4]{index=4}.  
+- Delivered projects **20% faster and under budget**.  
 
 ### 💻 Software Developer Intern – Sony Research India | 2023  
 - Built advanced **decoding algorithm** with FFmpeg → 30% efficiency gain.  
-- Integrated API into production software → improved customer satisfaction by 25%:contentReference[oaicite:5]{index=5}.  
+- Integrated API into production software → improved customer satisfaction by 25%.  
 
 ### 🎓 Teaching Associate / Lecturer – Thapar Institute (2019–2022)  
 - Trained 120+ students per semester in **C++, Data Science, ML**.  
-- Boosted course completion rates by 20%:contentReference[oaicite:6]{index=6}.  
+- Boosted course completion rates by 20%.  
 
 ### 🎓 Assistant Professor – Chandigarh University (2015–2019)  
 - Taught **C, C++, ML, RPA, DevOps** to 200+ students per semester.  
@@ -60,13 +60,13 @@ I specialize in:
 
 **Brain Tumor Segmentation & Survival Prediction (PhD Thesis)**  
 - Developed ML/DL models using **MRI scans** for survival prediction of glioblastoma patients.  
-- Tools & Libraries: PyTorch, Scikit-learn, PyRadiomics, Pandas, NumPy, Matplotlib, Plotly:contentReference[oaicite:8]{index=8}  
+- Tools & Libraries: PyTorch, Scikit-learn, PyRadiomics, Pandas, NumPy, Matplotlib, Plotly.  
 
 **📄 Publications:**  
 - *Clinical and Translational Imaging (2022)*  
 - *Multimedia Tools and Applications (2023)*  
 - *International Journal of Imaging Systems & Technology (2023)*  
-- *IETE Journal of Research (2023)*:contentReference[oaicite:9]{index=9}
+- *IETE Journal of Research (2023)*
 
 ---
 
@@ -77,7 +77,7 @@ I specialize in:
 **Data Tools**: Pandas, NumPy, Matplotlib, Plotly, Seaborn, Tableau, Power BI  
 **Big Data**: PySpark, Hadoop  
 **Cloud & DevOps**: AWS, Docker, Git, Linux  
-**Other**: NLP, Computer Vision, Predictive Modeling, Data Mining:contentReference[oaicite:10]{index=10}
+**Other**: NLP, Computer Vision, Predictive Modeling, Data Mining
 
 ---
 
