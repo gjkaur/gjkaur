@@ -32,7 +32,7 @@ I specialize in:
 
 ## 💼 Professional Experience
 
-### 🧑‍🏫 Online Computer Science Tutor (Freelancer) | 2024 – Present  
+### 🧑‍🏫 Online Computer Science and Machine Learning Instructor (Freelancer) | 2024 – Present  
 - Tutored 100+ students globally in **Python, Java, C++, SQL, AI/ML, and Data Science**.  
 - Guided on assignments, projects, thesis/dissertation writing.  
 - Achieved **95% student satisfaction rate**.  
