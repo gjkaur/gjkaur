@@ -83,7 +83,7 @@ I specialize in:
 
 ## 📊 GitHub Stats
 
-![Gurinderjeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gjkaur&show_icons=true&theme=radical&cache_seconds=1800)
+![Gurinderjeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gjkaur&show_icons=true&theme=radical&cache_seconds=1800&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gjkaur&layout=compact&theme=radical&cache_seconds=1800)
 
 
