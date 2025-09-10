@@ -32,12 +32,12 @@ I specialize in:
 
 ## 💼 Professional Experience
 
-### 🧑‍🏫 Online Computer Science and Machine Learning Instructor (Freelancer) | 2024 – Present  
+### 🧑‍🏫 Online Computer Science and Machine Learning Instructor (Wiingy, Superprof, Canada) | 2024 – Present  
 - Tutored 100+ students globally in **Python, Java, C++, SQL, AI/ML, and Data Science**.  
 - Guided on assignments, projects, thesis/dissertation writing.  
 - Achieved **95% student satisfaction rate**.  
 
-### 🤖 Machine Learning Engineer – NSpark Solutions (USA/India) | 2023 – 2024  
+### 🤖 Machine Learning Engineer – NSpark Solutions (USA (Remote), India) | 2023 – 2024  
 - Designed ML algorithms for **telecom data automation**, reducing analysis time by 60%.  
 - Improved analysis accuracy by 25% with optimized ML models.  
 - Delivered projects **20% faster and under budget**.  
